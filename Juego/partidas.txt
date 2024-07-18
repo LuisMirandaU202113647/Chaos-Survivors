@@ -1,0 +1,19 @@
+Jugador->1
+Nivel 1:
+Tiempo->98
+Puntos->100
+Nivel 2:
+Tiempo->97
+Puntos->50
+Jugador->2
+Nivel 1:
+Tiempo->95
+Puntos->100
+
+Jugador->3
+Nivel 1:
+Tiempo->97
+Puntos->100
+Nivel 2:
+Tiempo->98
+Puntos->50

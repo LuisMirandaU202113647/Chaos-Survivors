@@ -1,0 +1,8 @@
+C:\Users\HP GAMING\source\repos\ElJuego\Debug\ElJuego.vcxproj.AssemblyReference.cache
+C:\Users\HP GAMING\source\repos\ElJuego\Debug\ElJuego.MyForm.resources
+C:\Users\HP GAMING\source\repos\ElJuego\Debug\ElJuego.vcxproj.GenerateResource.cache
+C:\Users\HP GAMING\source\repos\ElJuego\Debug\ElJuego.exe
+D:\UPC\Prog´2\TF\Juego\Debug\ElJuego.vcxproj.AssemblyReference.cache
+D:\UPC\Prog´2\TF\Juego\Debug\ElJuego.MyForm.resources
+D:\UPC\Prog´2\TF\Juego\Debug\ElJuego.vcxproj.GenerateResource.cache
+D:\UPC\Prog´2\TF\Juego\Debug\ElJuego.exe

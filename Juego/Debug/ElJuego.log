@@ -1,0 +1,25 @@
+﻿  BolaNieve.cpp
+  Doctor.cpp
+  Enfermero.cpp
+  Fondo.cpp
+  Habitantes.cpp
+  Indicador.cpp
+  MyForm.cpp
+D:\UPC\Prog´2\TF\Juego\MyForm.h(850,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(851,15): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(885,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(886,15): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(918,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(919,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(925,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(926,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(935,14): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\MyForm.h(936,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Personaje.cpp
+  Virus.cpp
+D:\UPC\Prog´2\TF\Juego\Virus.cpp(98,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\Prog´2\TF\Juego\Virus.cpp(100,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+  BolaNieve.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ElJuego.vcxproj -> D:\UPC\Prog´2\TF\Juego\Debug\ElJuego.exe
